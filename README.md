@@ -9,6 +9,6 @@ This is the repository for the code for Java Spring Boot App.
 
 • Apache Maven Version 3.3.9
 
-Credits:
+**Credits:**
 
 • https://spring.io
